@@ -1,0 +1,12 @@
+Subj: M-to-A Converter                                                  ZE=3 PTS
+Date: 8/23/99 12:12:41 PM !!!First Boot!!!
+From: Rick.Fochtman@botcc.com (Rick Fochtman)
+      rfochtman@ync.net
+To: sbgolob@cbttape.org (Golob, Sam)
+
+Machine control character to ANSI control character conversion
+program is attached, for print output.
+
+DDNAMES are SYSUT1 and SYSUT2.  Instructions for use are in the
+  source program comments, at the top.
+
